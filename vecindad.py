@@ -217,6 +217,10 @@ for i in range(len(matriz[0])):
     for j in range(len(matriz[0])):
         if matriz[j][i] == 1:
             print("CELULA({},{}) tiene una vecindad de {}".format(i, j, vecindad4(matriz,i,j)))
+
+
+print("Aqui cambiamos las vecindades")
+
 print("----------VECINDAD 8----------")
 # i son x y j son y
 for i in range(len(matriz[0])):
