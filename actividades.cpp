@@ -209,6 +209,14 @@ int main()
 {	
     system("color 02");  scm();
     
+    int i;
+    int n = 5;
+    for( int i = 1; i < n; i ++ )
+    {
+    	cout<<"Prueba 2" <<endl;
+    	cout<<"prueba3" <<endl;
+	}
+    
     int N  ;
     cout<<"  Defina el numero de actividades: ";
     cin>> N ;
