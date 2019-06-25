@@ -219,6 +219,7 @@ int main()
     
     int N  ;
     cout<<"  Defina el numero de actividades: ";
+    cout<<"Nuevo texto introducido" <<endl;
     cin>> N ;
 
     cout<<endl ;
