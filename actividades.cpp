@@ -199,6 +199,9 @@ void scm()
 {
     cout<<endl;
     cout<<"\t     º           METODO DE SELECCION DE ACTIVIDADES       º "<< endl ;
+    
+    cout<<"\t\t Hola mundo "<< endl; //nuevo
+    
     cout<<endl;
 }
                           
